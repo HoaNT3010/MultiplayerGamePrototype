@@ -8,6 +8,10 @@ Alongside new technologies/services, I also studied and implemented some design 
 
 The multiplayer model applied for this project is Client-Service P2P.
 
+## Installation
+
+Compressed project build: https://drive.google.com/file/d/15qZW57M-C9taYByM6X8LZ92vqUOeL7TR/view?usp=sharing
+
 ## Features
 
 * Authenticate player anonymously
